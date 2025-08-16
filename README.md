@@ -1,6 +1,6 @@
 # LifeSync
 
-LifeSunc is a **MERN stack personal management application** designed to organize and simplify daily life. It provides secure storage, family collaboration, medical record management, task and study planning, reminders, and more — all in one place.
+LifeSync is a **MERN stack personal management application** designed to organize and simplify daily life. It provides secure storage, family collaboration, medical record management, task and study planning, reminders, and more — all in one place.
 
 ---
 
