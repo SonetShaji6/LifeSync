@@ -139,7 +139,20 @@ LifeSunc/
 ---
 
 ## 📸 Screenshots
+![](frontend/images/Image1.png)  
+*Figure 1*
 
+![](frontend/images/image.png)  
+*Figure 2*
+
+![](frontend/images/image2.png)  
+*Figure 3*
+
+![](frontend/images/image3.png)  
+*Figure 4*
+
+![](frontend/images/image4.png)  
+*Figure 5*
 
 ---
 
