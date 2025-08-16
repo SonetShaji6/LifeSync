@@ -140,7 +140,6 @@ LifeSunc/
 
 ## 📸 Screenshots
 
-*(Add screenshots or GIFs here for better presentation)*
 
 ---
 
@@ -154,13 +153,9 @@ LifeSunc/
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** - feel free to use and modify it.
 
 ---
 
 ## 👩‍💻 Author
 
 **Sonet Shaji**
-Final Year MCA Student | Passionate about MERN stack & Cybersecurity
