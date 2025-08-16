@@ -26,7 +26,7 @@ exports.generatePlan = async (req, res) => {
 
     // Call the Gemini API (replace with your actual API key)
     const geminiResponse = await axios.post(
-      "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyAIm6JyAxsfxOV4C6--BmRezj9K71zsr0s",
+      "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=APIKey",
       {
         contents: [
           {
@@ -107,4 +107,5 @@ exports.listPlans = async (req, res) => {
       console.error("Error fetching plans:", error);
       res.status(500).json({ message: "Error fetching plans" });
     }
+
   };
